@@ -22,11 +22,11 @@ We have 3 scripts:
 		```powershell
 		.\gen_ad.ps1 -JSONFile {your_file}
 		```
-3. .\code\gen_ad.ps1
-	- As imagined, this script populates the DC using the file created using generate_schema.ps1 script.
+3. .\code\del_ad.ps1
+	- As imagined, this script removes from the DC the users and groups using the file same file used to create it in the first place.
 	- You can pass a name for the json file to be used in the command line. by default it's set to ad_schema.json
 		```powershell
-		.\gen_ad.ps1 -JSONFile {your_file}
+		.\del_ad.ps1 -JSONFile {your_file}
 		```
 
 ## References
