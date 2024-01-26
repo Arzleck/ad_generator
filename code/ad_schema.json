@@ -1,0 +1,517 @@
+{
+  "domain": "xyz.local",
+  "users": [
+    {
+      "groups": "Development Testers Employees",
+      "password": "marie1",
+      "name": "Colter Lara"
+    },
+    {
+      "groups": "Operations Employees Security Testers",
+      "password": "camel1",
+      "name": "Laila Brennan"
+    },
+    {
+      "groups": "Finance Operations Security",
+      "password": "marion",
+      "name": "Kelsey Shannon"
+    },
+    {
+      "groups": "Testers Development",
+      "password": "poetry",
+      "name": "Sutton Kent"
+    },
+    {
+      "groups": "Infosec Employees Development Helpdesk",
+      "password": "bootie",
+      "name": "Maison Singleton"
+    },
+    {
+      "groups": "Infosec",
+      "password": "wood",
+      "name": "Alexia McClain"
+    },
+    {
+      "groups": "Testers Finance Helpdesk Secretary",
+      "password": "chichi",
+      "name": "Emiliano Stanton"
+    },
+    {
+      "groups": "Secretary Employees Operations",
+      "password": "pintail",
+      "name": "Tadeo Pittman"
+    },
+    {
+      "groups": "Infosec Finance",
+      "password": "soldier",
+      "name": "Martin Green"
+    },
+    {
+      "groups": "Helpdesk Sales",
+      "password": "sexyboy",
+      "name": "Atticus Howe"
+    },
+    {
+      "groups": "Development Security Helpdesk Infosec",
+      "password": "toledo",
+      "name": "Kyle Calderon"
+    },
+    {
+      "groups": "Sales",
+      "password": "felix",
+      "name": "Anaya Carter"
+    },
+    {
+      "groups": "Infosec",
+      "password": "dodge1",
+      "name": "Willow Caldwell"
+    },
+    {
+      "groups": "Security Operations Employees",
+      "password": "steel",
+      "name": "Daxton Murillo"
+    },
+    {
+      "groups": "Finance Infosec Sales Helpdesk",
+      "password": "blaze",
+      "name": "Jayleen Navarro"
+    },
+    {
+      "groups": "Sales Employees Development Finance",
+      "password": "bismark",
+      "name": "Luka Fry"
+    },
+    {
+      "groups": "Employees Helpdesk Sales Secretary",
+      "password": "calendar",
+      "name": "Luciana Hunt"
+    },
+    {
+      "groups": "Security",
+      "password": "waterloo",
+      "name": "Andy Arnold"
+    },
+    {
+      "groups": "Infosec",
+      "password": "717171",
+      "name": "Skylar Bradley"
+    },
+    {
+      "groups": "Infosec Helpdesk",
+      "password": "nimda2k",
+      "name": "Giuliana Sandoval"
+    },
+    {
+      "groups": "Security",
+      "password": "tian",
+      "name": "Kaleb White"
+    },
+    {
+      "groups": "Security",
+      "password": "casey1",
+      "name": "Rylan Smith"
+    },
+    {
+      "groups": "Testers Operations",
+      "password": "rrrrr",
+      "name": "Finn Long"
+    },
+    {
+      "groups": "Development Employees Security",
+      "password": "kathryn",
+      "name": "Xiomara Kennedy"
+    },
+    {
+      "groups": "Operations Finance",
+      "password": "mwq6qlzo",
+      "name": "Briana Bass"
+    },
+    {
+      "groups": "Secretary",
+      "password": "flange",
+      "name": "Brayden Rodgers"
+    },
+    {
+      "groups": "Operations Secretary",
+      "password": "vegeta",
+      "name": "Emmalynn David"
+    },
+    {
+      "groups": "Development Sales",
+      "password": "1213",
+      "name": "Esperanza Camacho"
+    },
+    {
+      "groups": "Helpdesk Infosec Operations Finance",
+      "password": "cindy1",
+      "name": "Maximiliano Clay"
+    },
+    {
+      "groups": "Sales Infosec",
+      "password": "teddy1",
+      "name": "Daniella Rich"
+    },
+    {
+      "groups": "Sales Security",
+      "password": "achilles",
+      "name": "Orion Torres"
+    },
+    {
+      "groups": "Employees",
+      "password": "thunder",
+      "name": "Ashlyn Bass"
+    },
+    {
+      "groups": "Development Helpdesk Employees Finance",
+      "password": "horse",
+      "name": "Aziel Nolan"
+    },
+    {
+      "groups": "Sales",
+      "password": "sophia",
+      "name": "Brynleigh Moore"
+    },
+    {
+      "groups": "Sales Employees Testers Helpdesk",
+      "password": "store",
+      "name": "Luisa Hampton"
+    },
+    {
+      "groups": "Testers",
+      "password": "bbbbbb",
+      "name": "Jeremiah Boone"
+    },
+    {
+      "groups": "Employees Infosec Development Helpdesk",
+      "password": "thanatos",
+      "name": "Elliot Peterson"
+    },
+    {
+      "groups": "Sales Employees",
+      "password": "wooden",
+      "name": "Aitana Lane"
+    },
+    {
+      "groups": "Development Finance",
+      "password": "merlin1",
+      "name": "Penny Estes"
+    },
+    {
+      "groups": "Secretary Employees",
+      "password": "dipshit",
+      "name": "Jaycee Miranda"
+    },
+    {
+      "groups": "Development",
+      "password": "ejaculation",
+      "name": "Simon Orozco"
+    },
+    {
+      "groups": "Testers Finance",
+      "password": "stern",
+      "name": "Mathias Pugh"
+    },
+    {
+      "groups": "Security Helpdesk Employees",
+      "password": "vision",
+      "name": "Jade Murillo"
+    },
+    {
+      "groups": "Security Sales",
+      "password": "little",
+      "name": "Kiaan Lee"
+    },
+    {
+      "groups": "Employees Development",
+      "password": "44444",
+      "name": "Cillian Valenzuela"
+    },
+    {
+      "groups": "Secretary",
+      "password": "lauren1",
+      "name": "Aden Hebert"
+    },
+    {
+      "groups": "Sales Development Security",
+      "password": "mate",
+      "name": "Margo Gonzales"
+    },
+    {
+      "groups": "Secretary",
+      "password": "allday",
+      "name": "Jayden Trevino"
+    },
+    {
+      "groups": "Sales Employees Security",
+      "password": "sailor",
+      "name": "Westley Knapp"
+    },
+    {
+      "groups": "Security Secretary Testers",
+      "password": "imback",
+      "name": "Lorenzo Zuniga"
+    },
+    {
+      "groups": "Development Operations Infosec",
+      "password": "building",
+      "name": "Jaden Sheppard"
+    },
+    {
+      "groups": "Infosec Helpdesk Testers Employees",
+      "password": "phantom1",
+      "name": "Quincy Vaughn"
+    },
+    {
+      "groups": "Testers Operations",
+      "password": "homepage-",
+      "name": "Daniel Nelson"
+    },
+    {
+      "groups": "Operations",
+      "password": "advance",
+      "name": "Yaretzi Duarte"
+    },
+    {
+      "groups": "Secretary Development",
+      "password": "jiggaman",
+      "name": "Kallie Hendricks"
+    },
+    {
+      "groups": "Employees Development Finance Helpdesk",
+      "password": "cake",
+      "name": "Lara Owens"
+    },
+    {
+      "groups": "Infosec Development Finance",
+      "password": "9skw5g",
+      "name": "Landen Noble"
+    },
+    {
+      "groups": "Development",
+      "password": "bulldog1",
+      "name": "Ridge McDaniel"
+    },
+    {
+      "groups": "Sales Secretary Finance",
+      "password": "toronto",
+      "name": "Abdiel Meza"
+    },
+    {
+      "groups": "Helpdesk Finance Secretary Testers",
+      "password": "hello",
+      "name": "Axl Bridges"
+    },
+    {
+      "groups": "Secretary Finance Employees Testers",
+      "password": "dallas1",
+      "name": "Elisa McKay"
+    },
+    {
+      "groups": "Helpdesk Development",
+      "password": "stopit",
+      "name": "Jaliyah Ho"
+    },
+    {
+      "groups": "Security Employees",
+      "password": "a1b2c3",
+      "name": "Azariah Gentry"
+    },
+    {
+      "groups": "Operations",
+      "password": "gateway2",
+      "name": "Riggs Neal"
+    },
+    {
+      "groups": "Secretary Infosec Sales Security",
+      "password": "snicker",
+      "name": "Mitchell Vaughn"
+    },
+    {
+      "groups": "Security Infosec",
+      "password": "platypus",
+      "name": "Dulce Salgado"
+    },
+    {
+      "groups": "Security",
+      "password": "shemale",
+      "name": "Blaise McBride"
+    },
+    {
+      "groups": "Operations Infosec",
+      "password": "bearbear",
+      "name": "Rex Middleton"
+    },
+    {
+      "groups": "Infosec Security",
+      "password": "macmac",
+      "name": "Margaret Hunter"
+    },
+    {
+      "groups": "Sales",
+      "password": "selina",
+      "name": "Carter Ashley"
+    },
+    {
+      "groups": "Development Security Employees",
+      "password": "cynthia",
+      "name": "Oliver Elliott"
+    },
+    {
+      "groups": "Finance Infosec Employees",
+      "password": "cancel",
+      "name": "Leonidas Heath"
+    },
+    {
+      "groups": "Helpdesk Finance Employees Operations",
+      "password": "deeper",
+      "name": "Ahmad Gibson"
+    },
+    {
+      "groups": "Secretary Development",
+      "password": "amadeus",
+      "name": "Justice Yang"
+    },
+    {
+      "groups": "Employees Operations",
+      "password": "yankees1",
+      "name": "Arielle Delarosa"
+    },
+    {
+      "groups": "Secretary Finance",
+      "password": "juggalo",
+      "name": "Angela Pratt"
+    },
+    {
+      "groups": "Infosec Finance Testers Operations",
+      "password": "seven",
+      "name": "Sabrina Newton"
+    },
+    {
+      "groups": "Testers Infosec Security",
+      "password": "referee",
+      "name": "Kabir Mitchell"
+    },
+    {
+      "groups": "Security Employees Operations Sales",
+      "password": "enterme",
+      "name": "Dillon Macias"
+    },
+    {
+      "groups": "Infosec",
+      "password": "deep",
+      "name": "Fatima Wise"
+    },
+    {
+      "groups": "Helpdesk Development Employees",
+      "password": "chucky",
+      "name": "Demi Allison"
+    },
+    {
+      "groups": "Finance",
+      "password": "clayton",
+      "name": "Cara Santos"
+    },
+    {
+      "groups": "Testers Development Sales Operations",
+      "password": "gambit",
+      "name": "Jad Haynes"
+    },
+    {
+      "groups": "Finance",
+      "password": "disney",
+      "name": "Kayleigh Leonard"
+    },
+    {
+      "groups": "Helpdesk Security Testers",
+      "password": "shroom",
+      "name": "Adalyn Meza"
+    },
+    {
+      "groups": "Operations",
+      "password": "stacie",
+      "name": "Samantha Cano"
+    },
+    {
+      "groups": "Operations Security",
+      "password": "cabrio",
+      "name": "Wren Pratt"
+    },
+    {
+      "groups": "Helpdesk Operations Testers",
+      "password": "nygiants",
+      "name": "Dante Lee"
+    },
+    {
+      "groups": "Employees Security Sales",
+      "password": "jethro",
+      "name": "Anya Arnold"
+    },
+    {
+      "groups": "Development Testers Sales",
+      "password": "billie",
+      "name": "Jayden Robbins"
+    },
+    {
+      "groups": "Development",
+      "password": "kirby",
+      "name": "Trevor York"
+    },
+    {
+      "groups": "Development Infosec",
+      "password": "sassy",
+      "name": "Charlee Pierce"
+    },
+    {
+      "groups": "Employees Testers",
+      "password": "ericsson",
+      "name": "Nicole Yoder"
+    },
+    {
+      "groups": "Finance Testers",
+      "password": "prick",
+      "name": "Everly Fowler"
+    },
+    {
+      "groups": "Security Finance Secretary",
+      "password": "clinton",
+      "name": "Zola Wolf"
+    },
+    {
+      "groups": "Employees Testers Security",
+      "password": "0.0.000",
+      "name": "Francis Clements"
+    },
+    {
+      "groups": "Helpdesk Testers",
+      "password": "bugman",
+      "name": "Leonard Yu"
+    },
+    {
+      "groups": "Development Helpdesk",
+      "password": "beefcake",
+      "name": "Thaddeus Armstrong"
+    },
+    {
+      "groups": "Employees",
+      "password": "cactus",
+      "name": "Lexi McCarty"
+    },
+    {
+      "groups": "Sales Operations Employees",
+      "password": "titty",
+      "name": "Averie Portillo"
+    }
+  ],
+  "groups": [
+    "Development",
+    "Employees",
+    "Operations",
+    "Sales",
+    "Finance",
+    "Helpdesk",
+    "Secretary",
+    "Testers",
+    "Security",
+    "Infosec"
+  ]
+}

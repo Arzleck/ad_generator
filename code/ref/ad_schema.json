@@ -1,0 +1,29 @@
+{
+    "domain": "xyz.local",
+
+    "groups": [
+        "Engineering", 
+        "Employees", 
+        "Finance"
+    ],
+
+    "users": [
+        {
+            "name":"Alice Lice",
+            "password": "Temporal123!",
+            "groups": [
+                "Finance",
+                "Employees"
+            ]
+        },
+        {
+            "name":"Bob Ob",
+            "password": "Temporal123!",
+            "groups": [
+                "Engineering",
+                "Employees"
+            ]
+        }
+    ]
+
+}
