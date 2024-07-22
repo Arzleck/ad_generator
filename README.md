@@ -1,9 +1,7 @@
 # AD Lab generator
---
 This scripts create a random set of users and groups, from de defined lists inside of .\code\data\
 
 ## Scripts
---
 We have 3 scripts:
 1. .\code\generate_schema.ps1
 	- Creates a random schema of users and groups.
@@ -30,8 +28,7 @@ We have 3 scripts:
 		```
 
 ## References
---
-I created this script step by step. I tried to recreate what was shown by John Hammond (@johnhammond010) in his video series about AD. It follows the same structure as he did in his videos, but y changed some things my self to practice my powershell-fu...
+I created this script step by step. I tried to recreate what was shown by John Hammond (@johnhammond010) in his video series about AD. It follows the same structure as he did in his videos, but I changed some things my self to practice my powershell-fu...
 
 JH repo -> https://github.com/JohnHammond/active_directory
 
